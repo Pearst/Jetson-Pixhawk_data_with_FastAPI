@@ -134,7 +134,3 @@ def get_str_data():
 
         return pixhawk_data
 
-if __name__ == "__main__":
-    # Uygulamayı başlat
-
-    app.run()
